@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shreespace
-- 👀 I’m interested in coding and im starting now
-- 🌱 I’m currently learning C.
-- 💞️ I’m currently a fresher in IIT Guwahati.
+- 👀 I’m interested in coding 
+- 💞️ I’m currently a sophomore in IIT Guwahati.
 - 📫 How to reach me ?.... Email me at - kritikashree10e19@gmail.com
 
 <!---
