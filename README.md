@@ -1,5 +1,5 @@
-# 💫 About Me:
-👩‍💻 Kritika Shree | B.Tech, IIT Guwahati (Pre-final Year)<br>⚡ Passionate about Blockchain, Web3, and Consulting<br>🧠 Tech + Strategy + Creativity = My Zone<br>💻 Building DApps, cracking case studies, and designing impactful solutions<br>🎯 Always learning, always curious, always pushing limits<br>
+# 💫 Kritika Shree:
+👩‍💻 B.Tech, IIT Guwahati (Pre-final Year)<br>⚡ Passionate about Blockchain, Web3, and Consulting<br>🧠 Tech + Strategy + Creativity = My Zone<br>💻 Building DApps, cracking case studies, and designing impactful solutions<br>🎯 Always learning, always curious, always pushing limits<br>
 
 
 ## 🌐 Socials:
